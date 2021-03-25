@@ -6,7 +6,7 @@ It's about anxiety, absurdity, and bad fish.
 This repository is in progress. The pages represented currently account for a fraction of the original story. This work is ongoing.
 
 Visit site:
-
+https://lilydhomer.github.io/weakstomach/
 
 If you'd like to but a copy of the original book (it's pretty great), head here:
 https://www.lilyhomer.com/shop
